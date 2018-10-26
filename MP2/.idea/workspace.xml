@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="258bc22d-6036-4948-937c-fcd804b606d4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-662644913">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="clj" value="1" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Clojure" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="clj" value="12748" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Clojure" value="12748" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simplify.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test.clj" />
+        <option value="$PROJECT_DIR$/src/simplify_or.clj" />
+        <option value="$PROJECT_DIR$/src/simplify.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MP2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MP2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MP2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MP2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539033007546" />
+    <property name="cursive.last.file.extension.C\:/Users/Josh/IdeaProjects/MP2/src" value="clj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ReplState" timestamp="1539870255611">{:repl-history {:ide [], :local [{:command &quot;(deep substitute '{x false, z true} '(and x(or x(and y(not z)))))&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute '{a 1 b 2} '(a (b a) (c) d))\n  ;(println keys-to-map)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 379, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute 'bindings 'expression)\n  ;(println keys-to-map)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 373, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute {bindings} (expression)  )\n  ;(println keys-to-map)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 377, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute bindings expression)\n  ;(println keys-to-map)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 371, :ns &quot;user&quot;} {:command &quot;(defn evalexp [expr bindings]\n  (deep-substitute bindings expression)\n  (simplify expr bindings)\n  )&quot;, :offset 100, :ns &quot;user&quot;} {:command &quot;(defn evalexp [expr bindings]\n  (deep-substitute bindings expr)\n  (simplify expr bindings)\n  )&quot;, :offset 94, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [m l]\n  (println m l)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 145, :ns &quot;user&quot;} {:command &quot;(defn evalexp [expr bindings]\n  (simplify expr bindings)\n  )&quot;, :offset 60, :ns &quot;user&quot;} {:command &quot;(deep-substitute '{x false, z true} p1)&quot;, :offset 39, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (println bindings)\n  (println expression)\n  (deep-substitute bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 390, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [m l]\n  (println m l)\n  (map (fn [i]\n         (if (seq? i)\n           (print \&quot;SEQ\&quot;)\n           (println i)\n           (deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 193, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [m l]\n  (println m l)\n  (map (fn [i]\n         (if (seq? i)\n           (println i) ;(deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 158, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute  expression bindings)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 347, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [l m]\n  (println m l)\n  (map (fn [i]\n         (if (seq? i)\n           (println i) ;(deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 158, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [l m]\n  (println m l)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute l i)\n           (m i i)))\n       m))&quot;, :offset 145, :ns &quot;user&quot;} {:command &quot;(deep-substitute '(and x(or x(and y(not z)))) '{x false, z true})&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(defn deep-substitute [m l]\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 129, :ns &quot;user&quot;} {:command &quot;(deep-substitute '{x false, z true} '(and x(or x(and y(not z)))))&quot;, :offset 65, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (deep-substitute bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 346, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings] (simplify (bind-values bindings exp)))&quot;, :offset 67, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (simplify (expression (deep-substitute bindings exp))))&quot;, :offset 86, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (simplify (exp (deep-substitute bindings exp))))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression bindings]\n  (bind-values bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 342, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  (bind-values bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 343, :ns &quot;user&quot;} {:command &quot;(bind-values '{x false, z true} 'p1)&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(bind-values '{x false, z true} p1)&quot;, :offset 35, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  (println \&quot;HERE!\&quot;)\n  (bind-values bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 363, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (println \&quot;HEREEEE\&quot;)\n  (simplify (bind-values bindings exp)))&quot;, :offset 91, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (println \&quot;HEREEEE\&quot;)\n  (simplify (bind-values bindings exp) exp))&quot;, :offset 95, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  ; (bind-values bindings expression)\n\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 345, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (simplify (bind-values bindings exp) exp))&quot;, :offset 73, :ns &quot;user&quot;} {:command &quot;(defn bind-values [m l]\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l)\n  (println l))&quot;, :offset 139, :ns &quot;user&quot;} {:command &quot;(defn bind-values [m l]\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l (println l)))&quot;, :offset 137, :ns &quot;user&quot;} {:command &quot;(defn bind-values [m l]\n  (println l)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l (println l)))&quot;, :offset 151, :ns &quot;user&quot;} {:command &quot;(defn bind-values [m l]\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 125, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  ; (bind-values bindings expression)\n  (print \&quot;EXP \&quot;)\n  (println expression)\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 384, :ns &quot;user&quot;} {:command &quot;(defn bind-values [m l]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute m i)\n           (m i i)))\n       l))&quot;, :offset 144, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (m i i)))\n       exp))&quot;, :offset 160, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       exp)\n  (println exp))&quot;, :offset 182, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       (println exp)\n       exp)\n  )&quot;, :offset 190, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       exp))&quot;, :offset 166, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  (let temp = (bind-values bindings expression)\n            (print \&quot;EXP \&quot;)\n            (println temp))\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 409, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       (exp) ))&quot;, :offset 169, :ns &quot;user&quot;} {:command &quot;(bind-values '{x false, z true} '(and x(or x(and y(not z)))))&quot;, :offset 61, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (println \&quot;HERE\&quot;)\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       exp ))&quot;, :offset 167, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else (print \&quot;ERRORED FOR SOME REASON\&quot;))\n    ))&quot;, :offset 306, :ns &quot;user&quot;} {:command &quot;(defn simplify [bindings expression ]\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else expression)))&quot;, :offset 278, :ns &quot;user&quot;} {:command &quot;(simplify p1)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression ]\n  (let [start (first expression)\n        after (rest expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not) (simplify-not expression)\n      :else expression)))&quot;, :offset 269, :ns &quot;user&quot;} {:command &quot;(def p1 '(and x (and x (and y (and z)))))&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(evalexp p1 '{x true, z true})&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(evalexp p2 '{x true, z false})&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(def p3 '(or true a))&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(def p3 '(and true (not a)))&quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(evalexp p3 '{a true})&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(def p3 '(and true a))&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(evalexp p3 '{a false})&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression))))])))&quot;, :offset 426, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x if (seq? i) (map (fn [i] (if (seq? i)\n                                       (cond\n                                         (= start 'or) (simplify-or expression)\n                                         (= start 'and) (simplify-and expression)\n                                         (= start 'not) (simplify-not expression)\n                                         :else expression))))])))&quot;, :offset 498, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x if (seq? x) (map (fn [i] (if (seq? i)\n                                       (cond\n                                         (= start 'or) (simplify-or expression)\n                                         (= start 'and) (simplify-and expression)\n                                         (= start 'not) (simplify-not expression)\n                                         :else expression))))])))&quot;, :offset 498, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x if (seq? expression) (map (fn [i] (if (seq? i)\n                                                (cond\n                                                  (= start 'or) (simplify-or expression)\n                                                  (= start 'and) (simplify-and expression)\n                                                  (= start 'not) (simplify-not expression)\n                                                  :else expression))))])))&quot;, :offset 552, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (if (seq? x) (map (fn [i] (if (seq? i)\n                                        (cond\n                                          (= start 'or) (simplify-or expression)\n                                          (= start 'and) (simplify-and expression)\n                                          (= start 'not) (simplify-not expression)\n                                          :else expression)))))])))&quot;, :offset 505, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (if (seq? i) (map (fn [i] (if (seq? i)\n                                        (cond\n                                          (= start 'or) (simplify-or expression)\n                                          (= start 'and) (simplify-and expression)\n                                          (= start 'not) (simplify-not expression)\n                                          :else expression)))))])))&quot;, :offset 505, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (if (seq? expression) (map (fn [i] (if (seq? i)\n                                                 (cond\n                                                   (= start 'or) (simplify-or expression)\n                                                   (= start 'and) (simplify-and expression)\n                                                   (= start 'not) (simplify-not expression)\n                                                   :else expression)))))])))&quot;, :offset 559, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (if (seq? expression) (map (fn [i] (if (seq? i)\n                                                 (cond\n                                                   (= start 'or) (simplify-or x)\n                                                   (= start 'and) (simplify-and x)\n                                                   (= start 'not) (simplify-not x)\n                                                   :else x)))))])))&quot;, :offset 523, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (if (seq? expression) (map (fn [i] (if (seq? i)\n                                                 (cond\n                                                   (= start 'or) (simplify-or expression)\n                                                   (= start 'and) (simplify-and expression)\n                                                   (= start 'not) (simplify-not expression)\n                                                   :else x)))))])))&quot;, :offset 550, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else x))\n                   ))x])))&quot;, :offset 438, :ns &quot;user&quot;} {:command &quot;(defn simplify-or [expression]\n  ;; sets 'or or 'and to be start and rest of the expression to after\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-false (remove false? after)]\n      (when (= start 'or)\n        (cond\n          (= 0  (count after-no-false)) false\n          (= 1 (count after-no-false)) (first after)\n          (some true? after) true\n          :else (concat (list start) after-no-false))))))&quot;, :offset 445, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else x))\n                   ))])))&quot;, :offset 477, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression))\n                   ))])))&quot;, :offset 486, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (map (fn [i]\n         (if (seq? i)\n           (deep-substitute binding i)\n           (binding i i)))\n       exp ))&quot;, :offset 148, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (println \&quot;HERE\&quot;) ; (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression))\n                   ))])))&quot;, :offset 524, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (println i) ; (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression))\n                   ))])))&quot;, :offset 519, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           ;(simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression)\n                           (println i))\n                   ))])))&quot;, :offset 545, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (map (fn [i] (if (seq? i)\n                   (simplify i)\n                   (println i)\n                   ; (cond\n                   ;  (= start 'or) (simplify-or expression)\n                   ;  (= start 'and) (simplify-and expression)\n                   ;  (= start 'not) (simplify-not expression)\n                   ;:else expression)\n                   )\n           ))))&quot;, :offset 494, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or expression)\n                             (= start 'and) (simplify-and expression)\n                             (= start 'not) (simplify-not expression)\n                             :else expression))\n                   ))])))&quot;, :offset 505, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or x)\n                             (= start 'and) (simplify-and x)\n                             (= start 'not) (simplify-not x)\n                             :else expression))\n                   ))])))&quot;, :offset 478, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (println \&quot;HERE\&quot;)\n  (let [start (first expression)\n        after (rest expression)]\n    (let [x (map (fn [i] (if (seq? i)\n                           (simplify i)\n                           (cond\n                             (= start 'or) (simplify-or i)\n                             (= start 'and) (simplify-and i)\n                             (= start 'not) (simplify-not i)\n                             :else expression))\n                   ))])))&quot;, :offset 478, :ns &quot;user&quot;} {:command &quot;(defn simplify-not [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-true (remove true? after)]\n      (let [after-no-false (remove false? after)]\n        (when (= start 'not)\n          (cond\n            (= 0 (count after-no-true)) false\n            (= 0 (count after-no-false)) true\n            :else (concat (list start) after)))))))&quot;, :offset 382, :ns &quot;user&quot;} {:command &quot;(defn simplify-and [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-true (remove true? after)]\n      (when (= start 'and)\n        (cond\n          (some false? after) false\n          (= 1 (count after-no-true)) (first after)\n          (= 0 (count after-no-true)) true\n          :else (concat (list start) after-no-true))))))&quot;, :offset 372, :ns &quot;user&quot;} {:command &quot;(defn simplify-or [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-false (remove false? after)]\n      (when (= start 'or)\n        (cond\n          (= 0  (count after-no-false)) false\n          (= 1 (count after-no-false)) (first after)\n          (some true? after) true\n          :else (concat (list start) after-no-false))))))&quot;, :offset 375, :ns &quot;user&quot;} {:command &quot;(defn which-simplify [expression]\n  (let [start (first expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not)  (simplify-not expression)\n      :else expression)\n    )\n  )&quot;, :offset 251, :ns &quot;user&quot;} {:command &quot;(defn bind-values [binding exp]\n  (map (fn [i]\n         (if (seq? i)\n           (bind-values binding i)\n           (binding i i)))\n       exp ))&quot;, :offset 144, :ns &quot;user&quot;} {:command &quot;(defn evalexp [exp bindings]\n  (simplify (bind-values bindings exp)))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(def p2 '(and (and z false) (or x true false)))&quot;, :offset 47, :ns &quot;user&quot;} {:command &quot;(evalexp p2 '{x false, z true})&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(def p1 '(and x (or x (and y (not z)))))&quot;, :offset 40, :ns &quot;user&quot;} {:command &quot;(evalexp p1 '{x false})&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (which-simplify\n    (map (fn [i]\n           (if(seq? i)\n             (do\n               (let[temp  (simplify i) ]\n                 temp))\n             i))\n         expression))\n  (println \&quot;here\&quot;))&quot;, :offset 226, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (which-simplify\n    (map (fn [i]\n           (if(seq? i)\n             (do\n               (let[temp  (simplify i) ]\n                 temp))\n             i))\n         (flatten (distinct expression)) )))&quot;, :offset 229, :ns &quot;user&quot;} {:command &quot;(defn which-simplify [expression]\n  (let [start (first expression)]\n    (cond\n      (= start 'or) (simplify-or expression)\n      (= start 'and) (simplify-and expression)\n      (= start 'not)  (simplify-not expression)\n      :else (distinct expression))))&quot;, :offset 254, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (which-simplify\n    (map (fn [i]\n           (if(seq? i)\n             (do\n               (let[temp  (simplify i) ]\n                 temp))\n             i))\n         expression)))&quot;, :offset 207, :ns &quot;user&quot;} {:command &quot;(defn simplify [expression]\n  (which-simplify\n    (map (fn [i]\n           (if(seq? i)\n             (do\n               (let[temp  (simplify i) ]\n                 temp))\n             i))\n         (distinct expression))))&quot;, :offset 218, :ns &quot;user&quot;} {:command &quot;(defn simplify-and [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-true (remove true? after)]\n      (when (= start 'and)\n        (cond\n          (some false? after) false\n          (= 1 (count after-no-true)) (first after)\n          (= 0 (count after-no-true)) true\n          :else (concat (list start) (distinct after-no-true)))))))&quot;, :offset 383, :ns &quot;user&quot;} {:command &quot;(defn simplify-not [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-true (remove true? after)]\n      (let [after-no-false (remove false? after)]\n        (when (= start 'not)\n          (cond\n            (= 0 (count after-no-true)) false\n            (= 0 (count after-no-false)) true\n            :else (concat (list start) (distinct after))))))))&quot;, :offset 393, :ns &quot;user&quot;} {:command &quot;(defn simplify-or [expression]\n  (let [start (first expression)\n        after (rest expression)]\n    (let [after-no-false (remove false? after)]\n      (when (= start 'or)\n        (cond\n          (= 0  (count after-no-false)) false\n          (= 1 (count after-no-false)) (first after)\n          (some true? after) true\n          :else (concat (list start) (distinct after-no-false)))))))&quot;, :offset 386, :ns &quot;user&quot;} {:command &quot;(evalexp p1 '{z true}) (and x)&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(evalexp p1 '{z true})&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(evalexp p1 '{x false, z true})&quot;, :offset 31, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.Lein">
+    <configuration name="Lein" type="ClojureREPL" factoryName="Local">
+      <module name="MP2" />
+      <setting name="replType" value="0" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <module name="MP2" />
+      <setting name="replType" value="0" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="MP2" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="MP2" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.Lein" />
+      <item itemvalue="Plugin.Plugin" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258bc22d-6036-4948-937c-fcd804b606d4" name="Default Changelist" comment="" />
+      <created>1538318584502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538318584502</updated>
+      <workItem from="1538318590080" duration="16435000" />
+      <workItem from="1538494811863" duration="31922000" />
+      <workItem from="1539108793019" duration="2550000" />
+      <workItem from="1539194387155" duration="5851000" />
+      <workItem from="1539785824550" duration="3690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60448000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12405446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.006557377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" sideWeight="0.49819493" weight="0.3296" />
+      <window_info anchor="right" id="Maven Projects" order="3" sideWeight="0.4963899" weight="0.3296" />
+      <window_info anchor="right" id="Leiningen" order="4" sideWeight="0.49819493" weight="0.3296" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" sideWeight="0.49819493" weight="0.2496" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info active="true" anchor="right" id="REPL" order="10" sideWeight="0.50180507" side_tool="true" visible="true" weight="0.34341908" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/MP2/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplify.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MP2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Clojure-1.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
